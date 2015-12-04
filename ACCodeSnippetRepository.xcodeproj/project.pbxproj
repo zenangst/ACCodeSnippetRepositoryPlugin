@@ -319,7 +319,7 @@
 			name = "ACCodeSnippetRepository Tests";
 			productName = "ACCodeSnippetRepository Tests";
 			productReference = 5154068318AC4B500065CA33 /* ACCodeSnippetRepository Tests.octest */;
-			productType = "com.apple.product-type.bundle";
+			productType = "com.apple.product-type.bundle.ocunit-test";
 		};
 		518E699E18AC4A8900C57456 /* ACCodeSnippetRepository */ = {
 			isa = PBXNativeTarget;
